@@ -12,6 +12,7 @@
 // @include      https://thepiratebay.org/browse/*	
 // @include      https://thepiratebay.org/user/*	
 // @include      https://thepiratebay.org/recent
+// @include      https://thepiratebay.org/recent/*
 // ==/UserScript==
 	
 (function() {
