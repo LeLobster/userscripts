@@ -32,7 +32,7 @@ Pref names are very descriptive so they shouldn't require further explanation.
 By default (as can be seen in the screenshot at the top of this page) red is used for torrents which contain `UnwantedKeyword`  
 Lightblue is for torrents which are `OtherKeyword`, default = web-dl related.  
 Darker lightblue is for torrents which use the x265(HEVC) encoding library.  
-Green is for torrents which are by your favorite uploaders are contain a keyword specified in `GoodKeyword`.  
+Green is for torrents which are by your favorite uploaders or contain a keyword specified in `GoodKeyword`.  
 And torrents which could potentially be a fake are marked with the `warning.png` triangle.  
 
 This can all be changed or completely disabled inside the `preferences.js` file. If you want to hide x265 encodes simply set `hidex265InsteadOfHighlight` to `true`, if you don't want to highlight web-dl related releases toggle `affectOther` to `false` etc. etc.
