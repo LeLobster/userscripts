@@ -4,7 +4,7 @@
 // @author       Fork by Lelobster, original script by nicobelic (greasyfork.org/scripts/21980), 
 // @namespace    https://github.com/LeLobster/userscripts/
 // @icon         https://raw.githubusercontent.com/LeLobster/userscripts/master/The_Pirate_Bay_Tweaks/icon.png
-// @require      https://github.com/LeLobster/userscripts/blob/master/The_Pirate_Bay_Tweaks/preferences.js
+// @require      https://raw.githubusercontent.com/LeLobster/userscripts/master/The_Pirate_Bay_Tweaks/preferences.js
 // @locale       English
 // @version      1.7
 // @grant        none
