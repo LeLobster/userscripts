@@ -48,7 +48,7 @@ There are a couple other things you can set in `preferences.js` so have a look a
 3. Your script manager will ask for permission to install the script.
 
 **ALTERNATIVE**  
-This same script can be found on Greasemonkey as well  
+This same script can be found on Greasyfork as well  
 https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks
 
 # Help
