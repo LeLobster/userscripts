@@ -25,12 +25,12 @@
     // In torrent title
     GoodKeyword = [
         "mfcorrea", "TuGAZx", "FGT",
-	"WiKi", "SADPANDA", "HazMatt"
+	    "WiKi", "SADPANDA", "HazMatt"
         ];    
     // ULed by
     GoodUploader = [
         "dhjudasx", "godcanjudgeme", "jalucian", "mfccorrea", 
-	"vonRicht", "hazmatt69"
+        "vonRicht", "hazmatt69"
         ];    
 
     // Includes x265, web and other non-retail
