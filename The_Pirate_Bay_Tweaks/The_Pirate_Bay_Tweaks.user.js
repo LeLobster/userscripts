@@ -19,7 +19,6 @@
 // PREFERENCES
 
 	// Configurable preferences can be found in the preferences.js file
-	// This file is located in ~/.mozilla/firefox/profiles/"YOUR PROFILE"/gm_scripts/The_Pirate_Bay_Tweaks/
 	
 // ACTUAL SCRIPT
 // no need to modify anything here
