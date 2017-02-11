@@ -25,12 +25,12 @@
     // In torrent title
     GoodKeyword = [
         "mfcorrea", "TuGAZx", "FGT",
-		"WiKi", "SADPANDA", "HazMatt"
+	"WiKi", "SADPANDA", "HazMatt"
         ];    
     // ULed by
     GoodUploader = [
         "dhjudasx", "godcanjudgeme", "jalucian", "mfccorrea", 
-		"vonRicht", "hazmatt69"
+	"vonRicht", "hazmatt69"
         ];    
 
     // Includes x265, web and other non-retail
@@ -82,7 +82,7 @@
 
     // CSS which is applied to potential fakes
     TorrentWarning = {"background" : "#ffb9b94d",
-                    "background-image" : "url(warning.png)",
+                    "background-image" : "url(https://raw.githubusercontent.com/LeLobster/userscripts/master/The_Pirate_Bay_Tweaks/warning.png)",
                     "background-position" : "85%",
                     "background-size" : "24px",
                     "background-repeat" : "no-repeat",
