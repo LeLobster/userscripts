@@ -34,7 +34,7 @@ After you've found the folder you can simply open the `the_pirate_bay_tweaks_pre
 
 ** HOW TO USE WITH **CHROME** + **TAMPERMONKEY** **
 
-Because Tampermonkey handles required local files differently compated to Greasemonkey, a couple additional steps need to be done for you to be able to edit the `the_pirate_bay_tweaks_prefs.txt` file.  
+Because Tampermonkey handles required local files differently compared to Greasemonkey, a couple additional steps need to be done for you to be able to edit the `the_pirate_bay_tweaks_prefs.txt` file.  
 First download [this file](https://raw.githubusercontent.com/LeLobster/userscripts/master/The_Pirate_Bay_Tweaks/the_pirate_bay_tweaks_prefs.txt) and place it whereever you want (I recommend the Chrome install folder so it's easy to keep track of the file.)   
 Next open the file in your browser by dragging the .txt file into it. In the url bar this will reveal the `file:///` path of your file which is needed later. (This looks like `file:///<drive>/<folders>/The_Pirate_Bay_Tweaks/the_pirate_bay_tweaks_prefs.txt`  
 Next go into your Chrome extensions settings `chrome://extensions/` and toggle the Tampermonkey checkbox for `Allow acces to file urls`   
