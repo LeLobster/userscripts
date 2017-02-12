@@ -83,8 +83,8 @@
 	includeUntrustedTorrentsWithoutComments = false;
 
 // CSS which is applied to potential fakes
-	TorrentWarning = {"background-image" : "url(https://i.imgur.com/MJcLKxb.png)",
-					"background-position" : "85%",
-					"background-size" : "24px",
-					"background-repeat" : "no-repeat",
-					"opacity" : ".5"};
+	TorrentWarning = {"background-image" : "url(https://raw.githubusercontent.com/LeLobster/userscripts/master/The_Pirate_Bay_Tweaks/warning.png)",
+			        "background-position" : "85%",
+			        "background-size" : "24px",
+			        "background-repeat" : "no-repeat",
+			        "opacity" : ".5"};
