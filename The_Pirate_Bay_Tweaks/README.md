@@ -43,7 +43,7 @@ There are a couple other things you can set in `preferences.js` so have a look a
 
 # Installation
 
-1. If you don't have a script manager yet: for FireFox, I recommend [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) and for Google Chrome, [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) is the popular one. For other browsers, see [this page](http://wiki.greasespot.net/Cross-browser_userscripting).
+1. Install [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) 
 2. Click on the filename (The_Pirate_Bay_Tweaks.user.js), wait for the new page to load, then click on the **Raw** button.
 3. Your script manager will ask for permission to install the script.
 
