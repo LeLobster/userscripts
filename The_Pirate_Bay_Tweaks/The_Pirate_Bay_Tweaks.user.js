@@ -13,6 +13,9 @@
 // @include      https://thepiratebay.org/user/*	
 // @include      https://thepiratebay.org/recent
 // @include      https://thepiratebay.org/recent/*
+// @include      https://thepiratebay.org/top/*
+// @include      https://thepiratebay.org/tv/*
+// @include      https://thepiratebay.org/music/genre/*
 // ==/UserScript==
 	
 (function() {
