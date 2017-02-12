@@ -15,7 +15,7 @@
 // @include      https://thepiratebay.org/top/*
 // @include      https://thepiratebay.org/tv/*
 // @include      https://thepiratebay.org/music/genre/*
-// @require      
+// @require      the_pirate_bay_tweaks_prefs.txt
 // ==/UserScript==
 
 (function() {
