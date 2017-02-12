@@ -31,7 +31,6 @@ or
 
 After you've found the folder you can simply open the `the_pirate_bay_tweaks_prefs.txt` file with your text editor of choice.
 
-
 ** HOW TO USE WITH **CHROME** + **TAMPERMONKEY** **
 
 Because Tampermonkey handles required local files differently compared to Greasemonkey, a couple additional steps need to be done for you to be able to edit the `the_pirate_bay_tweaks_prefs.txt` file.  
