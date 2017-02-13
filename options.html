@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="options.css" />
+	<script src="options.js" defer></script>
+  </head>
+
+  <body>
+
+    <form id="options_form">
+		<hr></hr>
+        <label class="input_label" title="Enter tooltip desc here" >Hightlight good?<input type="checkbox" id="highlightGoodTor" > </label>
+		<label class="input_label" title="Enter tooltip desc here" >Good highlight color<input type="color" id="GoodHighlightColor" ></label>
+		<label class="input_label" title="Enter tooltip desc here" >Good torrent keywords<input type="text" id="GoodKeyword" > </label> <!-- var array = string.split(','); -->
+		<label class="input_label" title="Enter tooltip desc here" >Good uploaders<input type="text" id="GoodUploader" > </label> <!-- var array = string.split(','); -->
+		<hr></hr>
+		<label class="input_label" title="Enter tooltip desc here" >Activate this section?<input type="checkbox" id="includeOther" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >Hide all other?<input type="checkbox" id="hideAllOtherInsteadOfHighlight" > </label>
+		<label class="input_label" title="Enter tooltip desc here" >Affect x265/hevc?<input type="checkbox" id="affectx256" > </label>
+		<label class="input_label" title="Enter tooltip desc here" >x265 hl color<input type="color" id="x256Color" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >Hide x265 instead of highlight?<input type="checkbox" id="hidex265InsteadOfHighlight" > </label>		
+		<hr class="faded_hr" ></hr>
+		<label class="input_label" title="Enter tooltip desc here" >affect other keywords?<input type="checkbox" id="affectOther" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >color of other highlight<input type="color" id="otherColor" > </label>		
+		<label class="input_label" title="Enter tooltip desc here" >Hide in stead of highlight?<input type="checkbox" id="hideOtherInsteadOfHighlight" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >enter other keywords<input type="text" id="OtherKeyword" > </label> <!-- var array = string.split(','); -->	
+		<hr class="faded_hr"></hr>
+		<label class="input_label" title="Enter tooltip desc here" >Include noneretail?<input type="checkbox" id="affectNonRetail" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >Color for non-retail<input type="color" id="NonRetailColor" > </label>		
+		<label class="input_label" title="Enter tooltip desc here" >hide nonretail instead of highlight<input type="checkbox" id="hideNonRetailInsteadOfHighlight" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >nonretail keywords<input type="text" id="NonRetailKeyword" > </label> <!-- var array = string.split(','); -->		
+		<hr></hr>
+		<label class="input_label" title="Enter tooltip desc here" >Include unwanted?<input type="checkbox" id="includeUnwanted" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >affect keywords?<input type="checkbox" id="affectUnwantedKeyword" > </label>		
+		<label class="input_label" title="Enter tooltip desc here" >unwanted highlight color<input type="color" id="UnwantedHighlightColor" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >Hide innstead of highlight?<input type="checkbox" id="hideUnwantedKeywordInsteadOfHighlight" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >list of unwanted keywords<input type="text" id="UnwantedKeyword" > </label> <!-- var array = string.split(','); -->		
+		<label class="input_label" title="Enter tooltip desc here" >affect unwanted uploaders?<input type="checkbox" id="affectUnwantedUploader" > </label>		
+		<label class="input_label" title="Enter tooltip desc here" >unwated uploader color<input type="color" id="UnwantedUserHighlightColor" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >hide instead of hightlight?<input type="checkbox" id="hideUnwantedUploaderInsteadOfHighlight" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >list of unwanted uploaders<input type="text" id="UnwantedUploader" > </label> <!-- var array = string.split(','); -->			
+		<hr></hr>
+		<label class="input_label" title="Enter tooltip desc here" >affect potential fakes?<input type="checkbox" id="affectPotentialFakes" > </label>		
+		<label class="input_label" title="Enter tooltip desc here" >Show trusted only?<input type="checkbox" id="trustedTorrentsOnly" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >max seeds without trust<input type="number" min="0" id="maxSeedsWithoutTrust" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >Just highlight potential fakes? not hide<input type="checkbox" id="dontHideJustHighlightPotentialFakes" > </label>	
+		<label class="input_label" title="Enter tooltip desc here" >affect untrusted without any comments?<input type="checkbox" id="includeUntrustedTorrentsWithoutComments" > </label>	
+		<hr></hr>
+		<label class="input_label" title="Enter tooltip desc here" >desc text color<input type="color" id="detDescColor" > </label>
+		
+		<!--
+		TorrentWarning = {"background-image" : "url(https://i.imgur.com/MJcLKxb.png)",
+		"background-position" : "85%",
+		"background-size" : "24px",
+		"background-repeat" : "no-repeat",
+		"opacity" : ".5"};
+		-->
+		<hr></hr>
+		<button type="submit">Save</button> <!-- button which submites the form and stores it somewhere -->
+    </form>
+
+  </body>
+
+</html>
