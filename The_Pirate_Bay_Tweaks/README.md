@@ -2,11 +2,13 @@
 
 # Installation
 
+** ALSO AVAILABLE AS A WEBEXTENSION FOR FIREFOX **  
+https://addons.mozilla.org/firefox/addon/the-pirate-bay-tweaks/
+
 1. If you don't already have a script manager installed:   
 For Firefox install [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/), and for Chrome install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo). 
 2. Click on the filename (The_Pirate_Bay_Tweaks.user.js), wait for the new page to load, then click on the **Raw** button.
 3. Your script manager will ask for permission to install the script.
-
 
 # Usage
 
