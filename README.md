@@ -12,3 +12,7 @@ Development of this script **has stopped** since it's available as a [browser ex
 
 A script for Subscene which cleans up unwanted languages, duplicate subtitles, hides trailer subtitles, marks good uploaders and adds some overall tweaks to it's UI.  
 
+
+# [Letterboxd Search Bars](https://github.com/LeLobster/userscripts/tree/master/Letterboxd_Search_Bars)
+
+A script for Letterboxd which creates icons to easily search for the current film on popular torrent- and some other websites.
