@@ -33,10 +33,9 @@ function main() {
         imdbBtn = buttons[0].href.match(/tt(\d{7})/);
         var imdbId = imdbBtn[1]
         console.log('IMDb ID:', imdbId)
-    }
-    // In the rare case where a film doesn't have a imdb page
-    // use just the title instead
-    else {
+    } else {
+        // In the rare case where a film doesn't have a imdb page
+        // use just the title instead
         var imdbId = filmTitle
         console.log('Film has no IMDb page, using filmTitle')
     }
@@ -48,10 +47,9 @@ function main() {
         content = backdrop.getElementsByClassName('content-wrap')[0];
         container.replaceChild(content, backdrop);
         container.classList.remove('has-backdrop');
-        // console.log('Backdrop removed.')
-    }
-    else {
-        // console.log('No backdrop present.')
+        console.log('Backdrop removed.')
+    } else {
+        console.log('No backdrop present.')
     }
 
     // Function used to build icons
