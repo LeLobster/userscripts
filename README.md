@@ -4,3 +4,5 @@ A script for The Pirate Bay which allows you to hide unwanted torrents, hide (or
 This script is a fork of a [script by nicobelic](https://greasyfork.org/scripts/21980).
 
 This script can also be found at [Greasyfork](https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks).
+
+Development of this script is halted since it's available as a [browser extension](https://github.com/LeLobster/The-Pirate-Bay-Tweaks) now.
