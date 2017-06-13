@@ -259,7 +259,7 @@ function main() {
     'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'+
     'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA';
 
-    createIcon(tr, 'OpenSubtitles', 'https://www.opensubtitles.org/en/search/sublanguageid-dut,eng/imdbid-'+imdbId+'/sort-5/asc-0', img);  
+    createIcon(tr, 'OpenSubtitles', 'https://www.opensubtitles.org/en/search/sublanguageid-eng/imdbid-'+imdbId+'/sort-5/asc-0', img);  
 
     // Subscene
     img = 'data:text/html;charset=utf-8;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB'+
