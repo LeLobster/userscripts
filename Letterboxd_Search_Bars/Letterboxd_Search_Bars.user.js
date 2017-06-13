@@ -17,6 +17,7 @@ function main() {
     // How convenient
     var filmTitle = filmData['name']
     filmTitle = filmTitle.replace(/[\/\\#,+()$~%.":*?<>{}!]/g, ''); // remove chars
+    filmTitle = filmTitle.replace(/&/g, '%26')
     var filmYear = filmData['releaseYear']
     // Also maybe get the original title if present
     // Don't know how to implement it yet though
