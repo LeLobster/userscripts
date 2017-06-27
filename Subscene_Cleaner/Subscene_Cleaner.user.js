@@ -30,7 +30,7 @@ function styleSettings() {
     document.styleSheets[0].insertRule('#content { min-height: unset !important; }', 0);
     document.styleSheets[0].insertRule('.sustain { display: none !important; }', 0);
     document.styleSheets[0].insertRule('.subtitles td div { \
-        overflow-x: scroll !important; width: 444px !important; \
+        overflow-x: auto !important; width: 444px !important; \
     }', 0);
     
     document.querySelector('#content').style.width = '90%';
