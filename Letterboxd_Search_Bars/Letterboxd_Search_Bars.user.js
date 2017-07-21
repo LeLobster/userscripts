@@ -30,7 +30,7 @@ function main() {
     var imdbElement =  document.querySelector('[data-track-action="IMDb"]')
     if (imdbElement != 'undefined' && imdbElement != null) {
         // Get imdb id from the button
-        buttons = document.getElementsByClassName('flat-button track-event');
+        buttons = document.getElementsByClassName('micro-button track-event');
         imdbBtn = buttons[0].href.match(/tt(\d{7})/);
         var imdbId = imdbBtn[1]
         console.log('IMDb ID:', imdbId)
