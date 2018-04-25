@@ -18,3 +18,8 @@ This script can also be found at [Greasyfork](https://greasyfork.org/en/scripts/
 A script for Letterboxd which creates icons to easily search for the current film on popular torrent- and some other websites.
 
 This script can also be found at [Greasyfork](https://greasyfork.org/en/scripts/30547-letterboxd-search-bars).
+
+
+# [Letterboxd Activity Cleaner](https://github.com/LeLobster/userscripts/blob/master/Letterboxd_activity_cleaner)
+
+A script to hide `Person1 liked Person2 ★ review of MOVIE` from the activity feed
