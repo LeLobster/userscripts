@@ -3,7 +3,7 @@
 // @version     1.0
 // @namespace   Violentmonkey Scripts
 // @author      LeLobster
-// @description Hide likes/own comments on the letterboxd activity page
+// @description Hide likes on the letterboxd activity page
 // @include     https://letterboxd.com/activity/
 // @grant       none
 // ==/UserScript==
