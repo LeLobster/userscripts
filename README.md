@@ -20,6 +20,13 @@ A script for Letterboxd which creates icons to easily search for the current fil
 This script can also be found at [Greasyfork](https://greasyfork.org/en/scripts/30547-letterboxd-search-bars).
 
 
-# [Letterboxd Activity Cleaner](https://github.com/LeLobster/userscripts/blob/master/Letterboxd_activity_cleaner)
+# [Letterboxd Activity Cleaner](https://github.com/LeLobster/userscripts/tree/master/Letterboxd_activity_cleaner)
 
 A script to hide `Person1 liked Person2 ★ review of MOVIE` from the activity feed
+
+# [Letterboxd User Ignorer](https://github.com/LeLobster/userscripts/tree/master/Letterboxd_user_ignorer)
+
+*Quick and dirty written script, will probably rewrite it some day*
+
+Allows you to hide users you don't like, simply right click on their avatar and a box will popup to ask for blocking confirmation.  
+Will hide this user and their reviews from any page (might've missed some but don't think I did)
